@@ -123,10 +123,7 @@
 
 ### 总结
 * 总的来说，skiplist比较简单，而且易于实现，关键在于理解插入和删除时的update数组的作用。
-* 源代码见：
+* 源代码见：[SkipList简单实现及测试][1]
 
 
-
-
-
-
+  [1]: https://github.com/lengender/SkipList
